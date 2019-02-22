@@ -1,4 +1,5 @@
 # taiko-web
+太鼓达人 web版，js可以学习
 A web-based Taiko no Tatsujin simulator.
 
 Running instance: [https://taiko.bui.pm](https://taiko.bui.pm)
